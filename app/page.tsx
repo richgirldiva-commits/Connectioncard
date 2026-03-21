@@ -5,7 +5,7 @@ const HomePage = () => {
     <div>
       {/* Hero Section */}
       <section id="hero" style={{textAlign: 'center', padding: '50px', backgroundColor: '#f5f5f5'}}>
-        <h1>Welcome to Connection Card</h1>
+        <h1>Welcome to Connection Card Home</h1>
         <p>Your go-to app for seamless connections!</p>
         <a href="/signup" style={{marginRight: '20px'}}>Sign Up</a>
         <a href="/login">Log In</a>
